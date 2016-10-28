@@ -43,6 +43,7 @@ cask_install() {
 # if ! type rbenv; then
 #   brew_install rbenv
 #   brew_install ruby-build
+#   brew_install rbenv-vars
 
   # Add rbenv to bash so that it loads every time you open a terminal
   # echo 'if which rbenv > /dev/null; then eval "$(rbenv init -)"; fi' >> ~/.bash_profile
@@ -65,9 +66,14 @@ cask_install() {
 
 
 brew_install caskroom/cask/brew-cask
+
+brew_install postgresql
+brew_install redis
+
 brew_install heroku
 brew_install pow
 brew_install git
+brew_install imagemagick
 
 cask_install google-chrome
 cask_install firefox
