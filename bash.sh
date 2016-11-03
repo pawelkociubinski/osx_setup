@@ -75,6 +75,7 @@ brew_install heroku
 brew_install pow
 brew_install git
 brew_install imagemagick
+brew_install mercurial
 
 cask_install google-chrome
 cask_install firefox
@@ -106,6 +107,7 @@ cask_install caffeine
 cask_install goofy
 cask_install kitematic
 cask_install github-desktop
+cask_install vagrant
 # You need to install manualy:
 # monosnap
 # discord
