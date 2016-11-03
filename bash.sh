@@ -69,6 +69,7 @@ brew_install caskroom/cask/brew-cask
 
 brew_install postgresql
 brew_install redis
+brew_install git-lfs
 
 brew_install heroku
 brew_install pow
