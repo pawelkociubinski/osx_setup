@@ -103,6 +103,8 @@ cask_install browserstacklocal
 cask_install flux
 cask_install caffeine
 cask_install goofy
+cask_install kitematic
+cask_install github-desktop
 # You need to install manualy:
 # monosnap
 # discord
