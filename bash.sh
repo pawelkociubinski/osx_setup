@@ -39,6 +39,7 @@ cask_install() {
 }
 
 
+# TODO: Fix rbenv and nvm installation
 
 # if ! type rbenv; then
 #   brew_install rbenv
@@ -111,11 +112,14 @@ cask_install github-desktop
 cask_install vagrant
 cask_install whatsapp
 cask_install skype-for-business
+
 # You need to install manualy:
 # monosnap
-# discord
 # gotomeeting
 # sketch
 # webstorm
 # http://canarymail.io/
-# nvm      curl -o- https://raw.githubusercontent.com/creationix/nvm/v0.32.1/install.sh | bash
+# ableton Live 9 Lite
+# Eighty Eight Ensemble
+# nvm
+
