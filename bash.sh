@@ -109,6 +109,7 @@ cask_install kitematic
 cask_install github-desktop
 cask_install vagrant
 cask_install whatsapp
+cask_install skype-for-business
 # You need to install manualy:
 # monosnap
 # discord
