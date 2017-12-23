@@ -65,20 +65,20 @@ cask_install() {
 #   echo 'rbenv and ruby installed'
 # fi
 
-
-brew_install caskroom/cask/brew-cask
-
-brew_install postgresql
 brew_install redis
-brew_install git-lfs
 brew_install tig
-
-brew_install heroku
-brew_install pow
+brew_install zsh-syntax-highlighting
+brew_install archey
 brew_install git
-brew_install imagemagick
-brew_install mercurial
+brew_install neovim
+brew_install nvm
+brew_install rbenv
+brew_install rbenv-vars
+brew_install tmux
+brew_install zsh
+brew_install zsh-syntax-highlighting
 
+# brew_install imagemagick
 cask_install google-chrome
 cask_install firefox
 cask_install torbrowser
