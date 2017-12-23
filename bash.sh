@@ -88,8 +88,6 @@ cask_install dropbox
 cask_install slack
 cask_install atom
 cask_install vlc
-cask_install iterm2
-cask_install bettertouchtool
 cask_install libreoffice
 cask_install gimp
 cask_install spectacle
@@ -103,16 +101,12 @@ cask_install virtualbox
 cask_install wireshark
 cask_install zeplin
 cask_install synology-cloud-station-drive
-cask_install browserstacklocal
+
 cask_install flux
 cask_install caffeine
 cask_install goofy
 cask_install kitematic
-cask_install github-desktop
-cask_install vagrant
-cask_install whatsapp
-cask_install skype-for-business
-
+cask_install fork
 # You need to install manualy:
 # monosnap
 # gotomeeting
